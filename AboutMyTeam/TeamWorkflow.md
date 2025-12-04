@@ -2,10 +2,11 @@
 
 ## Team Members
 
-| STD-ID | Name                     | Role     | Responsibilities|
-| 016-8  | นราธิป   พรหมประกาย       | Admin   | สร้าง repository, สร้างโฟลเดอร์ Project/AboutMyTeam, สร้าง WorkFlow.md, Merge branch ของสมาชิกทั้งหมด |
-| 216-0  | ปกรณ์    จำนงค์นารถ        | Maintain| ตรวจสอบโค้ด, Review Pull Request, แนะนำปรับปรุง logic และ style |
-| 025-7  | วีรภัทร    วิเศษสมบัติ        | Write   | เขียนโปรแกรม Bubble Sort, เขียนไฟล์โปรไฟล์ของตัวเอง          |
+| STD-ID   | Name                  | Role     | Responsibilities                                                                 |
+|----------|----------------------|---------|-------------------------------------------------------------------------------|
+| 016-8    | นราธิป พรหมประกาย   | Admin   | สร้าง repository, สร้างโฟลเดอร์ Project/AboutMyTeam, สร้าง WorkFlow.md, Merge branch ของสมาชิกทั้งหมด |
+| 216-0    | ปกรณ์ จำนงค์นารถ     | Maintain| ตรวจสอบโค้ด, Review Pull Request, แนะนำปรับปรุง logic และ style             |
+| 025-7    | วีรภัทร วิเศษสมบัติ  | Write   | เขียนโปรแกรม Bubble Sort, เขียนไฟล์โปรไฟล์ของตัวเอง                         |
 
 
 
